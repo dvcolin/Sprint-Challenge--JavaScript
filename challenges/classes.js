@@ -70,8 +70,8 @@ const cube = new CubeMaker({
     height: 4
 })
 
-console.log(cube.cubeVolume());
-console.log(cube.cubeSurfaceArea());
+console.log(cube.cubeVolume()); //64
+console.log(cube.cubeSurfaceArea()); //96
 
 
 
