@@ -6,6 +6,9 @@
   object name, diet, weight, length, period
 */
 
+
+//////////////////////////// DINOSAUR OBJECTS //////////////////////////
+
 // tyrannosaurus, carnivorous, 7000kg, 12m, Late Cretaceous
 
 const tyrannosaurus = {
@@ -143,6 +146,8 @@ console.log(populationTotal);
 /* 
 
 Stretch: If you haven't already, convert your array method callbacks into arrow functions.
+
+///////////////////// ************* COMPLETED *************** //////////////////////
 
 */
 
